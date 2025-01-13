@@ -1,6 +1,6 @@
 # Nearby
 
-**Nearby** é um projeto em Swift desenvolvido durante a NLW (Next Level Week) da Rocketseat. O aplicativo explora o ecossistema iOS para implementar um clube de benefícios com cupons para utilizar em estabelecimentos próximos a você.
+**Nearby** é um projeto em Swift. O aplicativo explora o ecossistema iOS para implementar um clube de benefícios com cupons para utilizar em estabelecimentos próximos a você.
 
 ---
 
